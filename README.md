@@ -1,5 +1,6 @@
 # vaccine-scraper
 Scrapes walgreens and notifies via IFTTT when vaccine appointments are available. Deploys to AWS Lambda. 
+
 Contact: stopaustin7@gmail.com
 
 IFTTT Setup:
